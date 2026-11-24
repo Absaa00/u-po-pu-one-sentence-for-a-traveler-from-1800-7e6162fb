@@ -1,0 +1,13 @@
+# u-po-pu traveler r1 — local-only ignores (round 1, fresh wording)
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.log
+/output/
+entry.txt
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+.venv/
+venv/
